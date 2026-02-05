@@ -1,6 +1,6 @@
 # add the following to _config.yml file
 title: Chelsey Maus
-logo: ![Image](https://github.com/user-attachments/assets/f50c0ecf-271b-4cb2-bb67-fe9ad60a3e32)
+logo: /assets/img/CM_Email.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
