@@ -1,6 +1,6 @@
 # add the following to _config.yml file
 title: Chelsey Maus
-logo: /assets/img/Headshot.jpg
+logo: /assets/img/Headshot_Circle.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
