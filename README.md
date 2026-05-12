@@ -3,6 +3,8 @@
 ### Education
 Data Science, M.S.
 
+Theatre Arts, B.A.
+
 ### Projects
 **Employee Attrition in Healthcare**
 etc.. •
