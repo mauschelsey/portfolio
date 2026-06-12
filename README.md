@@ -8,8 +8,23 @@ M.S., Data Science -- University of North Dakota _(May 2026)_
 B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 
 ## Projects
-**Employee Attrition in Healthcare**
-etc.. •
+**Employee Attrition in Healthcare | Machine Learning | May 2026**
+● Developed and evaluated predictive machine learning models using healthcare datasets to identify factors associated with employee attrition in healthcare organizations
+●	Cleaned, processed and analyzed workforce data using Python to identify patterns associated with employee attrition 
+●	Performed data cleaning, preprocessing, and feature engineering to improve model reliability and predictive performance 
+●	Applied Permutation Feature Importance Technique to identify the five most influential factors impacting model performance
+●	Evaluated model effectiveness using recall to prioritize detection of positive cases
+
+**Patient Satisfaction Interactive Dashboard | Data Visualization |	May 2026**
+●	Processed and prepared multi-year HCAHPS healthcare datasets (7M+ records) using Python, Excel, and Pandas
+●	Collected, cleaned, validated, and merged multi-year healthcare survey datasets containing over 7 million records
+●	Performed exploratory data analysis to identity trends in patient satisfaction across hospitals and reporting periods
+●	Designed and developed interactive Tableau dashboards to compare performance metrics across healthcare organizations
+●	Translated complex datasets into clear, actionable visual insights for stakeholders and decision-making
+●	Developed interactive Tableau dashboards enabling comparison of patient satisfaction metrics across hospitals and reporting years
+
+![Patient Satisfaction Dashboard](/assets/images/Patient_Satisfaction_Dashboard.jpg)
+[Interactive Dashboard on Tableau](https://public.tableau.com/app/profile/chelsey.maus/viz/PatientSatisfactioninHospitalsAcrossAmerica/UpdatedDashboard)
 
 ## Work Experience
 **Environmental Educator @ Finn Partners _(January 2023 - Present)_**
