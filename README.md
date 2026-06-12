@@ -2,16 +2,16 @@
 
 **Technical Skills: Python, SQL, Tableau, Scikit-learn, Excel**
 
-### Education
+## Education
 M.S., Data Science    University of North Dakota _(May 2026)_
 
 B.A., Theatre Arts    Pepperdine University _(April 2016)_
 
-### Projects
+## Projects
 **Employee Attrition in Healthcare**
 etc.. •
 
-### Work Experience
+## Work Experience
 Environmental Educator @ Finn Partners
 - big impact project 1!
 - big impact project 2!
