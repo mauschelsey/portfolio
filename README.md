@@ -20,6 +20,6 @@ Guest Teacher @ LAUSD
 - big impact project 1!
 - big impact project 2!
   
-[Tableau] (https://public.tableau.com/app/profile/chelsey.maus/vizzes)
+[Tableau](https://public.tableau.com/app/profile/chelsey.maus/vizzes)
 
-[LinkedIn] (https://www.linkedin.com/in/chelsey-maus-134665b2/)
+[LinkedIn](https://www.linkedin.com/in/chelsey-maus-134665b2/)
