@@ -11,9 +11,14 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 **Employee Attrition in Healthcare | Machine Learning | May 2026**
 - Developed and evaluated predictive machine learning models using healthcare datasets to identify factors associated with employee attrition in healthcare organizations
 -	Cleaned, processed and analyzed workforce data using Python to identify patterns associated with employee attrition 
--	Performed data cleaning, preprocessing, and feature engineering to improve model reliability and predictive performance 
+-	Performed data cleaning, preprocessing, and feature engineering to improve model reliability and predictive performance
+
+![Random Forest Pipeline](/assets/img/RF_Pipeline.jpg) ![Neural Network Pipeline](/assets/img/NN_Pipeline.jpg)
+  
 -	Applied Permutation Feature Importance Technique to identify the five most influential factors impacting model performance
 -	Evaluated model effectiveness using recall to prioritize detection of positive cases
+
+![Box Plot](/assets/img/Permutation_Recall.png)
 
 **Patient Satisfaction Interactive Dashboard | Data Visualization |	May 2026**
 -	Processed and prepared multi-year HCAHPS healthcare datasets (7M+ records) using Python, Excel, and Pandas
