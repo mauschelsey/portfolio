@@ -1,9 +1,11 @@
-# Data Scientist
+# Data Analyst
+
+Technical Skills: Python, SQL, Tableau, Scikit-learn, Excel
 
 ### Education
-Data Science, M.S.
+M.S., Data Science    University of North Dakota _(May 2026)_
 
-Theatre Arts, B.A.
+B.A., Theatre Arts    Pepperdine University _(April 2016)_
 
 ### Projects
 **Employee Attrition in Healthcare**
@@ -18,3 +20,6 @@ Guest Teacher @ LAUSD
 - big impact project 1!
 - big impact project 2!
   
+Tableau
+
+LinkedIn
