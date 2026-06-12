@@ -1,6 +1,6 @@
 # Data Analyst
 
-Technical Skills: Python, SQL, Tableau, Scikit-learn, Excel
+**Technical Skills: Python, SQL, Tableau, Scikit-learn, Excel**
 
 ### Education
 M.S., Data Science    University of North Dakota _(May 2026)_
