@@ -23,7 +23,7 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 ●	Translated complex datasets into clear, actionable visual insights for stakeholders and decision-making
 ●	Developed interactive Tableau dashboards enabling comparison of patient satisfaction metrics across hospitals and reporting years
 
-![Patient Satisfaction Dashboard](/assets/images/Patient_Satisfaction_Dashboard.jpg)
+![Patient Satisfaction Dashboard](/assets/img/Patient_Satisfaction_Dashboard.jpg)
 [Interactive Dashboard on Tableau](https://public.tableau.com/app/profile/chelsey.maus/viz/PatientSatisfactioninHospitalsAcrossAmerica/UpdatedDashboard)
 
 ## Work Experience
