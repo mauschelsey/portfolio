@@ -27,6 +27,8 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 
 [Interactive Dashboard on Tableau](https://public.tableau.com/app/profile/chelsey.maus/viz/PatientSatisfactioninHospitalsAcrossAmerica/UpdatedDashboard)
 
+[Full Report](/assets/docs/Final-MausC.pdf)
+
 ## Work Experience
 **Environmental Educator @ Finn Partners _(January 2023 - Present)_**
 - Delivered interactive environmental education assemblies to 200-500 K-5 students, adapting presentation strategies based on audience engagement and educator feedback to improve learning outcomes and program effectiveness
