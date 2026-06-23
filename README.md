@@ -28,6 +28,8 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 [Full Report](/assets/docs/Final-MausC.pdf)
 
 **Patient Satisfaction Interactive Dashboard | Data Visualization |	May 2026**
+- Data Visualization is essential for communicating large datasets easily to non-technical audiences.
+- An interactive dashboard in Tableau was prepared for hospitals across the United States to analyze their performance from the years 2020-2025.
 -	Processed and prepared multi-year HCAHPS healthcare datasets (7M+ records) using Python, Excel, and Pandas
 -	Collected, cleaned, validated, and merged multi-year healthcare survey datasets containing over 7 million records
 -	Performed exploratory data analysis to identity trends in patient satisfaction across hospitals and reporting periods
