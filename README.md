@@ -20,6 +20,8 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 
 <img src="/assets/img/Permutation_Recall.png" width="700" />
 
+[Full Report](/assets/docs/Final-MausC.pdf)
+
 **Patient Satisfaction Interactive Dashboard | Data Visualization |	May 2026**
 -	Processed and prepared multi-year HCAHPS healthcare datasets (7M+ records) using Python, Excel, and Pandas
 -	Collected, cleaned, validated, and merged multi-year healthcare survey datasets containing over 7 million records
