@@ -13,7 +13,7 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 -	Cleaned, processed and analyzed workforce data using Python to identify patterns associated with employee attrition 
 -	Performed data cleaning, preprocessing, and feature engineering to improve model reliability and predictive performance
 
-![Random Forest Pipeline](/assets/img/RF_Pipeline.jpg|width=50) ![Neural Network Pipeline](/assets/img/NN_Pipeline.jpp|width=50)
+![Random Forest Pipeline](/assets/img/RF_Pipeline.jpg | width=50) ![Neural Network Pipeline](/assets/img/NN_Pipeline.jpg | width=50)
   
 -	Applied Permutation Feature Importance Technique to identify the five most influential factors impacting model performance
 -	Evaluated model effectiveness using recall to prioritize detection of positive cases
