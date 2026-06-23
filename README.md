@@ -9,16 +9,21 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 
 ## Projects
 **Employee Attrition in Healthcare | Machine Learning | May 2026**
-- Developed and evaluated predictive machine learning models using healthcare datasets to identify factors associated with employee attrition in healthcare organizations
--	Cleaned, processed and analyzed workforce data using Python to identify patterns associated with employee attrition 
--	Performed data cleaning, preprocessing, and feature engineering to improve model reliability and predictive performance
-
+- High employee turnover rates can be costly for hospitals and impact patient care. To assist hospitals in addressing this relevant business problem the question "Which factors have the greatest impact on employee attrition rates in healthcare?" was investigated.
+- A synthetic dataset designed for healthcare settings based on the IBM Watson dataset for attrition was utilized for this project.
+- Random Forest and Neural Network models were chosen for analysis of the dataset using the model inspection technique Permutation Feature Importance to determine the top 5 features which impact employee attrition rates in healthcare. 
+- Correlated features were removed from the dataset to prevent redundant information eroding model quality along with features which provided little predictive value.
+- Data was cleaned and prepped for model training and the following pipelines were built using Scikit-learn.
+  
 <img src="/assets/img/RF_Pipeline.jpg" width="500" /> <img src="/assets/img/NN_Pipeline.jpg" width="500" />
   
--	Applied Permutation Feature Importance Technique to identify the five most influential factors impacting model performance
--	Evaluated model effectiveness using recall to prioritize detection of positive cases
+- ADASYN was used to address the large class imbalance in the dataset for the target value of attrition.
+- The metrics accuracy and recall were used for evaluation favoring recall due to the class imbalance and the importance of not missing positive cases as incorrect predictions could lead to understaffing which would greatly impact patient care. 
+-	Permutation Feature Importance Technique was applied to the Neural Network model which had a higher recall score to identify the five most influential factors impacting model performance.
 
 <img src="/assets/img/Permutation_Recall.png" width="700" />
+
+- The five features which consistently appeared to affect employee attrition rates include: Overtime, Age, Monthly Income, Years at Company, & Number of Companies. 
 
 [Full Report](/assets/docs/Final-MausC.pdf)
 
