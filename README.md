@@ -23,7 +23,7 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 
 <img src="/assets/img/Permutation_Recall.png" width="700" />
 
-- The five features which consistently appeared to affect employee attrition rates include: Overtime, Age, Monthly Income, Years at Company, & Number of Companies. 
+- The five features which consistently had an affect on the models predicting employee attrition rates include: Overtime, Age, Monthly Income, Years at Company, & Number of Companies. 
 
 [Full Report](/assets/docs/Final-MausC.pdf)
 
