@@ -18,7 +18,7 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 -	Applied Permutation Feature Importance Technique to identify the five most influential factors impacting model performance
 -	Evaluated model effectiveness using recall to prioritize detection of positive cases
 
-![Box Plot](/assets/img/Permutation_Recall.png)
+<img src="/assets/img/Permutation_Recall.png" width="700" />
 
 **Patient Satisfaction Interactive Dashboard | Data Visualization |	May 2026**
 -	Processed and prepared multi-year HCAHPS healthcare datasets (7M+ records) using Python, Excel, and Pandas
