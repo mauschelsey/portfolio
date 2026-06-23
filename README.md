@@ -15,13 +15,13 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 - Correlated features were removed from the dataset to prevent redundant information eroding model quality along with features which provided little predictive value.
 - Data was cleaned and prepped for model training and the following pipelines were built using Scikit-learn.
   
-![Random Forest Pipeline](/assets/img/RF_Pipeline.jpg =500x) <img src="/assets/img/NN_Pipeline.jpg" alt="Neural Network Pipeline" width="500">
+<img src="/assets/img/RF_Pipeline.jpg" alt="Random Forest Pipeline" width="500"> <img src="/assets/img/NN_Pipeline.jpg" alt="Neural Network Pipeline" width="500">
   
 - ADASYN was used to address the large class imbalance in the dataset for the target value of attrition.
 - The metrics accuracy and recall were used for evaluation favoring recall due to the class imbalance and the importance of not missing positive cases as incorrect predictions could lead to understaffing which would greatly impact patient care. 
 -	Permutation Feature Importance Technique was applied to the Neural Network model which had a higher recall score to identify the five most influential factors impacting model performance.
 
-<img src="/assets/img/Permutation_Recall.png" width="700" />
+<img src="/assets/img/Permutation_Recall.png" alt="Box Plot of Permutation Feature Importance Technique Restuls" width="700">
 
 - The five features which consistently had an affect on the models predicting employee attrition rates include: Overtime, Age, Monthly Income, Years at Company, & Number of Companies. 
 
