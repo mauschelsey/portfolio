@@ -21,6 +21,7 @@ _Random Forest Pipeline_
 - A Random Forest & Neural Network model were selected as Random Forest is one of the most effective models when researching employee attrition rates and deep learning models such as Neural Network are the next phase in research. 
 ![Neural Network Pipeline](/assets/img/NN_Pipeline.jpg)
 _Neural Network Pipeline_
+
 - ADASYN was used to address the large class imbalance in the dataset for the target value of attrition.
 - The metrics accuracy and recall were used for evaluation favoring recall due to the class imbalance and a preference for false positives compared to false negatives since missed predictions could lead to understaffing which would greatly impact patient care. 
 -	Permutation Feature Importance Technique was applied to the Neural Network model which had a higher recall score to identify the five most influential factors impacting model performance.
