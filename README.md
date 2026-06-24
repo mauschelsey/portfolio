@@ -18,7 +18,8 @@ B.A., Theatre Arts -- Pepperdine University _(April 2016)_
 ![Random Forest Pipeline](/assets/img/RF_Pipeline.jpg)
 _Random Forest Pipeline_
 
-- A Random Forest & Neural Network model were selected as Random Forest is one of the most effective models when researching employee attrition rates and deep learning models such as Neural Network are the next phase in research. 
+- A Random Forest & Neural Network model were selected as Random Forest is one of the most effective models when researching employee attrition rates and deep learning models such as Neural Network are the next phase in research.
+  
 ![Neural Network Pipeline](/assets/img/NN_Pipeline.jpg)
 _Neural Network Pipeline_
 
