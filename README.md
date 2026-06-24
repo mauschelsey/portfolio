@@ -49,17 +49,17 @@ _Neural Network Pipeline_
 
 ## Work Experience
 **Environmental Educator @ Finn Partners _(January 2023 - Present)_**
-- Delivered interactive environmental education assemblies to 200-500 K-5 students, adapting presentation strategies based on audience engagement and educator feedback to improve learning outcomes and program effectiveness
-- Tracked attendance, engagement patterns, and qualitative feedback across school presentations to identify trends and refine delivery
-- Generated reports summarizing engagement outcomes and recommendations for enhancing programing effectiveness
-- Coordinated audio-visual logistics, scheduling, and troubleshooting across multiple school locations ensuring reliable program execution while identifying process improvements that increase operational efficiency
+- Deliver interactive environmental education assemblies to 200-500 K-5 students, adapting presentation strategies based on audience engagement and educator feedback to improve learning outcomes and program effectiveness.
+- Track attendance, engagement patterns, and qualitative feedback across school presentations to identify trends and refine delivery.
+- Generate reports summarizing engagement outcomes and recommendations for enhancing programing effectiveness.
+- Coordinate audio-visual logistics, scheduling, and troubleshooting across multiple school locations ensuring reliable program execution while identifying process improvements that increase operational efficiency.
 
 **Certificated Substitute Teacher @ LAUSD _(January 2017 - Present)_**
-- Maintained accurate student and classroom records while ensuring compliance with district reporting requirements
-- Analyzed student performance data and adapted instructional approaches based on observed trends and outcomes
-- Communicated information effectively to diverse audiences including studnets, teachers, and administrators
-- Managed competing priorities in fast-paced environments while maintaining accuracy, organization, and attention to detail
-- Applied data-informed decision making to support classroom performance and operational continuity
+- Maintain accurate student and classroom records while ensuring compliance with district reporting requirements.
+- Analyze student performance data and adapt instructional approaches based on observed trends and outcomes.
+- Communicate information effectively to diverse audiences including students, teachers, and administrators.
+- Manage competing priorities in fast-paced environments while maintaining accuracy, organization, and attention to detail.
+- Apply data-informed decision making to support classroom performance and operational continuity.
   
 ## [Tableau](https://public.tableau.com/app/profile/chelsey.maus/vizzes)
 
