@@ -34,12 +34,12 @@ _Neural Network Pipeline_
 [Full Report](/assets/docs/Final-MausC.pdf)
 
 **Patient Satisfaction Interactive Dashboard | Data Visualization |	May 2026**
-- Data from the HCAHPS Survey was analyzed to answer the question "Which hospitals have the highest levels of patient satisfaction?"
+- Data from the HCAHPS survey was analyzed to answer the question "Which hospitals have the highest levels of patient satisfaction?"
 - The Hospital Consumer Assessment of Healthcare Providers and Systems Survey (HCAHPS) provides data on patient experience after a recent hospital stay in hospitals across the United States which accept payments from Medicare & Medicaid.
 - Data was sourced from the archives for Centers for Medicare & Medicaid Services for the years 2020-2025. 
--	Using Python & Pandas data was cleaned, and merged into one record with 7,505,535 records and 23 features. 
-- The Patient Survey Star Rating was selected as the appropriate focal point as an overal rating of patient satisfaction for hopsitals with at least 100 completed surveys fora four-quarter period. 
-- An interactive dashboard in Tableau was prepared for hospitals across the United States to analyze their patient satisfaction from the years 2020-2025.
+-	Using Python & Pandas data was cleaned and prepared for use in Tableau with a total of 7,505,535 records and 23 features. 
+- The Patient Survey Star Rating was used in the dashboard to represent the patient's experience as an overall rating of patient satisfaction for hopsitals with at least 100 completed surveys over a four-quarter period. 
+- An interactive dashboard in Tableau was prepared for hospitals across the United States to analyze their patient satisfaction from the years 2020-2025 and can serve as an assessment tool for hospital administrators. 
 
 ![Patient Satisfaction Dashboard](/assets/img/Patient_Satisfaction_Dashboard.jpg)
 
