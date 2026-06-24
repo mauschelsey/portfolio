@@ -34,14 +34,12 @@ _Neural Network Pipeline_
 [Full Report](/assets/docs/Final-MausC.pdf)
 
 **Patient Satisfaction Interactive Dashboard | Data Visualization |	May 2026**
-- Data Visualization is essential for communicating large datasets easily to non-technical audiences.
-- An interactive dashboard in Tableau was prepared for hospitals across the United States to analyze their performance from the years 2020-2025.
--	Processed and prepared multi-year HCAHPS healthcare datasets (7M+ records) using Python, Excel, and Pandas
--	Collected, cleaned, validated, and merged multi-year healthcare survey datasets containing over 7 million records
--	Performed exploratory data analysis to identity trends in patient satisfaction across hospitals and reporting periods
--	Designed and developed interactive Tableau dashboards to compare performance metrics across healthcare organizations
--	Translated complex datasets into clear, actionable visual insights for stakeholders and decision-making
--	Developed interactive Tableau dashboards enabling comparison of patient satisfaction metrics across hospitals and reporting years
+- Data from the HCAHPS Survey was analyzed to answer the question "Which hospitals have the highest levels of patient satisfaction?"
+- The Hospital Consumer Assessment of Healthcare Providers and Systems Survey (HCAHPS) provides data on patient experience after a recent hospital stay in hospitals across the United States which accept payments from Medicare & Medicaid.
+- Data was sourced from the archives for Centers for Medicare & Medicaid Services for the years 2020-2025. 
+-	Using Python & Pandas data was cleaned, and merged into one record with 7,505,535 records and 23 features. 
+- The Patient Survey Star Rating was selected as the appropriate focal point as an overal rating of patient satisfaction for hopsitals with at least 100 completed surveys fora four-quarter period. 
+- An interactive dashboard in Tableau was prepared for hospitals across the United States to analyze their patient satisfaction from the years 2020-2025.
 
 ![Patient Satisfaction Dashboard](/assets/img/Patient_Satisfaction_Dashboard.jpg)
 
