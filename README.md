@@ -29,11 +29,11 @@ _Neural Network Pipeline_
 
 ![Box Plot of Permutation Feature Importance Technique Results](/assets/img/Permutation_Recall.png)
 
-- The five features which consistently had an affect on the models predicting employee attrition rates include: Overtime, Age, Monthly Income, Years at Company, & Number of Companies. 
-
-[Full Report](/assets/docs/Final-MausC.pdf)
+- The five features which consistently had an affect on the models predicting employee attrition rates include: Overtime, Age, Monthly Income, Years at Company, & Number of Companies.
 
 [Jupyter Notebook](/Employee_Attrition.html)
+
+[Full Report](/assets/docs/Final-MausC.pdf)
 
 **Patient Satisfaction Interactive Dashboard | Data Visualization |	May 2026**
 - Data from the HCAHPS survey was analyzed to answer the question "Which hospitals have the highest levels of patient satisfaction?"
