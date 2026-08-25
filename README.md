@@ -32,7 +32,8 @@ _Neural Network Pipeline_
 - The five features which consistently had an affect on the models predicting employee attrition rates include: Overtime, Age, Monthly Income, Years at Company, & Number of Companies. 
 
 [Full Report](/assets/docs/Final-MausC.pdf)
-[Jupyter Notebook](/Employee_Attrition.ipynb)
+
+[Jupyter Notebook](./Employee_Attrition.ipynb)
 
 **Patient Satisfaction Interactive Dashboard | Data Visualization |	May 2026**
 - Data from the HCAHPS survey was analyzed to answer the question "Which hospitals have the highest levels of patient satisfaction?"
