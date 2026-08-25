@@ -33,7 +33,7 @@ _Neural Network Pipeline_
 
 [Full Report](/assets/docs/Final-MausC.pdf)
 
-[Jupyter Notebook](./Employee_Attrition.md)
+[Jupyter Notebook](/Employee_Attrition.md)
 
 **Patient Satisfaction Interactive Dashboard | Data Visualization |	May 2026**
 - Data from the HCAHPS survey was analyzed to answer the question "Which hospitals have the highest levels of patient satisfaction?"
